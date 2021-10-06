@@ -1,0 +1,39 @@
+5w
+
+1. who is the data appy to, solution supply to   what is the end user
+2. what is in scoure what is out of scoure (not relevence to stacit order)
+3. why -> problem statement, design principle, move analyse to features
+4. where the data come from
+5. when : flow to display the roles, working flow... state of the project
+
+
+
+---------- Template - 1 ---------------  students
+
+As a ... Gender ... student, I want to find a MOOC platforme that can help me learning courses about ... Topics ... , so that I can quickly know which MOOC platforme
+is the best choice for learning ... Topics ... in /... Time .../... Language .../
+
+As a Female student, I want to find a MOOC platforme that can help me learning courses about Data Analytics & Visualization, so that I can quickly know which MOOC platforme
+is the best choice for learning Data Analytics & Visualization with Part-time.
+
+As a male student, I want to find a MOOC platforme that can help me learning courses about AI, so that I can quickly know which MOOC platforme
+is the best choice for learning AI in Arabic.
+
+---------- Template - 2 --------------- students but more detailed
+
+As a ... Gender ... student, I want to find some MOOC platformes that can help me learning courses about ... Topics ... , so that I can quickly know which MOOC platformes
+are good for learning ... Topics ... in /... Time .../... Language .../
+
+As a Male student, I want to find some MOOC platformes that can help me learning courses about UX design , so that I can quickly know which MOOC platformes
+are good for learning UX design in English.
+
+
+
+---------- Template - 3 --------------- Familier Users
+
+As a MOOCs' Platforms Recommendation System User, I want to do ... app-feature ... about it, so that I can ... Value for this app-feature ...
+
+As a MOOCs' Platforms Recommendation System User, I want to do discussion with my friends about what I learned, so that I can quickly got the feedback about my questions and 
+help others.
+
+As a MOOCs' Platforms Recommendation System User, I want to know how to use it, so that I can quickly do the search I want without time wasting.
